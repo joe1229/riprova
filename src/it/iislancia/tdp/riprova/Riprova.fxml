@@ -5,9 +5,8 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.layout.BorderPane?>
 
-
-<BorderPane xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="it.iislancia.tdp.riprova.RiprovaController">
+<BorderPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="it.iislancia.tdp.riprova.RiprovaController">
    <center>
-      <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="83.0" text="Press me" BorderPane.alignment="CENTER" />
+      <Button mnemonicParsing="false" prefHeight="25.0" prefWidth="138.0" text="Premere per favore" BorderPane.alignment="CENTER" />
    </center>
 </BorderPane>
